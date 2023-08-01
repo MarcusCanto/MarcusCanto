@@ -35,3 +35,7 @@
   </a>
   -->
 </p>
+
+<a href="https://github.com/MarcusCanto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusCanto&theme=tokyonight&show_icons=true" />
+</a>
