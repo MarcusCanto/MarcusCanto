@@ -1,4 +1,4 @@
-<h2 align="left">Olá! 👋 Eu sou o Marcus e estou em uma jornada para me tornar um engenheiro de dados.</h2>
+<h2 align="left">Olá! 👋<br>Eu sou o Marcus e estou em uma jornada para me tornar um engenheiro de dados.</h2>
 
 ###
 
